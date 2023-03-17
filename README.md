@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viveklistenus
-- 👀 I’m interested in front-end web development.
+- 👀 I’m interested in nodejs full stack development.
 - 🌱 I’m currently learning javaScript.
 - 📫 How to reach me viveklistenus@gmail.com
 
